@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Aspiring Cloud & DevOps Engineer focused on strengthening my technical foundation
+🌱 Actively learning AWS, Linux, Shell scripting, and DevOps tools
+🤝 Looking for guidance, mentorship, and entry-level opportunities in Cloud / DevOps
+💬 Ask me about Linux, AWS basics, or FPS games — I love them
 
 
 ## 🌐 Socials:
